@@ -46,7 +46,7 @@ The code is a demonstration of interacting with the OpenAI ChatGPT API, showcasi
 
 |QnA Based on multiple sources|Problem Solving|
 |---|---|
-|<img width="1177" alt="image" src="https://github.com/user-attachments/assets/278a2f9f-8c52-45cf-b8bf-fd5fb1933fc7" />|<img width="1165" alt="image" src="https://github.com/user-attachments/assets/6413c692-5e62-4415-b88f-47f844f51f00" />|
+|<img width="806" alt="image" src="https://github.com/user-attachments/assets/f75f4728-309b-456c-8912-e2487d853148" />|<img width="1131" alt="image" src="https://github.com/user-attachments/assets/55ee609c-bbda-41dc-9091-4f2aca7f5f15" />|
 
 
 
