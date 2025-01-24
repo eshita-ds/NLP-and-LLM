@@ -1,5 +1,7 @@
 # Interactive Chatbot creation and Task automation with OpenAI
 
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/c9626b61-0c35-4831-891f-cd9cb8e4ea0c" />
+
 ## Introduction
 The project involved using OpenAI API and Langchain to create a chatbot that is capable of handling a sequence of chats and ability summarize the entire chat at the end of the session. The tasks involved solving a complex Maths problem, parse a PDF or Website and answer questions about the content or combine information from multiple sources and provide intelligent responses.
 
