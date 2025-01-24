@@ -1,5 +1,7 @@
 # RAG based chatbot for PDFs using Langchain and OpenAI
 
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/c9626b61-0c35-4831-891f-cd9cb8e4ea0c" />
+
 ## Introduction
 Large Language Models (LLMs) are increasingly adopted for diverse applications, and their ability to provide accurate responses is critical. Retrieval-Augmented Generation (RAG) enhances LLM performance by combining retrieval-based and generation-based techniques. RAG retrieves relevant information from an external knowledge base using semantic search and feeds it into the LLM alongside the query, enabling more accurate and informed responses while reducing hallucinations. This project employs Chroma DB for managing embeddings and LangChain for integrating LLMs with external data sources.
 
@@ -53,7 +55,8 @@ Testing and Prompt Optimization
 
 **Output**
 
-<img width="650" alt="image" src="https://github.com/user-attachments/assets/7267c264-1ed5-4e52-a41d-7350ad1a1fc6" />
+<img width="816" alt="image" src="https://github.com/user-attachments/assets/da547e06-5743-4f2b-93e4-82757359275c" />
+
 
 ## Fine Tuning
 
@@ -63,7 +66,8 @@ Once fine-tuned, the model is integrated into a Retrieval-Augmented Generation (
 
 The get_response function manages user interactions by invoking the RAG chain with the query, retrieving the response, and returning the answer. This setup enables accurate, well-formed answers tailored to the uploaded PDF content and the custom fine-tuned model.
 
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/60f8cb41-30b1-4c22-876b-2a794a2a2ad7" />
+<img width="650" alt="image" src="https://github.com/user-attachments/assets/ec246d4c-8f55-4d1f-8222-3dce4e3ee4a6" />
+
 
 ## Conclusion
 From the results of the fine-tuned model, we can conclude that extensive data is needed to tune the exiting LLM. Creating data manually using the currently available knowledge base is a very cumbersome process. As visible from the results above, ROGUE scores were at par or showed a minor improvement for some questions. However, for others, the performance was not as expected, and it was better with the baseline gpt-turbo-3.5 model.
