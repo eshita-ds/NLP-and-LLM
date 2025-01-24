@@ -1,6 +1,6 @@
 <h1 aling=center>Training a Question and Answer model using BERT on SQUAD dataset</h1>
 
-<p align=center><img width="839" alt="image" src="https://github.com/user-attachments/assets/6d266362-2149-42ae-a8e8-8a735e114ce1" /></p>
+<img width="839" align=center alt="image" src="https://github.com/user-attachments/assets/b6d70952-fada-42cd-afe3-782a2e33edea" />
 
 
 ## Overview
@@ -39,7 +39,8 @@ This project implements a Question Answering (QnA) model using BERT (Bidirection
 - 5 epochs of training, Batch size of 8
 - Learning rate of 5e-5
 
-<img width="550" alt="image" src="https://github.com/user-attachments/assets/1c9f6061-a59c-4514-83d4-a0128f65e6d2" />
+<img width="550" alt="image" src="https://github.com/user-attachments/assets/33287fe6-4359-47fb-a12c-12d13d15cb12" />
+
 
 **Inference**
 - Perform inference against the ground truth answers and calculate the Exact Match and F1 Score for final evaluation.
